@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dempsey-builders/static/css/main.53e4f930.css",
+    "main.js": "/dempsey-builders/static/js/main.706626f2.js",
+    "static/js/976.8c72a680.chunk.js": "/dempsey-builders/static/js/976.8c72a680.chunk.js",
+    "static/js/893.cb0021be.chunk.js": "/dempsey-builders/static/js/893.cb0021be.chunk.js",
+    "static/media/pattern.jpg": "/dempsey-builders/static/media/pattern.b0cb0b55015534abf35c.jpg",
+    "static/media/carousel-wall.jpg": "/dempsey-builders/static/media/carousel-wall.81d8f81001b533b4fc09.jpg",
+    "static/media/carousel-sun.jpg": "/dempsey-builders/static/media/carousel-sun.8f368ed22d76a517007f.jpg",
+    "static/media/carousel-patio.jpg": "/dempsey-builders/static/media/carousel-patio.1c63c52fa7ecfababf53.jpg",
+    "static/media/carousel-sun3.jpg": "/dempsey-builders/static/media/carousel-sun3.03a31e089f48d05ff263.jpg",
+    "static/media/carousel-renov.jpg": "/dempsey-builders/static/media/carousel-renov.9c2343fda195ca6ebc3d.jpg",
+    "static/media/garage.jpg": "/dempsey-builders/static/media/garage.eddb21ecdfbfb22e4c13.jpg",
+    "static/media/logo_trans.png": "/dempsey-builders/static/media/logo_trans.8925d667f4af77767b95.png",
+    "static/media/pvc.jpg": "/dempsey-builders/static/media/pvc.f39028feb86dfe9f5dde.jpg",
+    "static/media/logo_main.png": "/dempsey-builders/static/media/logo_main.8e16a26a3164b5cceeb3.png",
+    "static/media/new_home.jpg": "/dempsey-builders/static/media/new_home.f7d60885d819845bd2c2.jpg",
+    "index.html": "/dempsey-builders/index.html",
+    "main.53e4f930.css.map": "/dempsey-builders/static/css/main.53e4f930.css.map",
+    "main.706626f2.js.map": "/dempsey-builders/static/js/main.706626f2.js.map",
+    "976.8c72a680.chunk.js.map": "/dempsey-builders/static/js/976.8c72a680.chunk.js.map",
+    "893.cb0021be.chunk.js.map": "/dempsey-builders/static/js/893.cb0021be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53e4f930.css",
+    "static/js/main.706626f2.js"
+  ]
+}
